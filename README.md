@@ -17,18 +17,18 @@ Informe a quantidade de **homens, mulheres e crianças** e descubra automaticame
 ## Tecnologias utilizadas  
 - **HTML5**  
 - **CSS3**  
-- **JavaScript (ES6+)**  
+- **PhP**  
 
 ## Como usar  
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/maariferreiracalculadora-de-churrasco.git
 
-   Abra o arquivo index.html no navegador.
+2. Abra o arquivo index.php no navegador.
 
-2. Insira a quantidade de homens, mulheres e crianças.
+3. Insira a quantidade de homens, mulheres e crianças.
 
-3. Clique em Calcular e veja o resultado.
+4. Clique em Calcular e veja o resultado.
 
 # Exemplo de uso
 
